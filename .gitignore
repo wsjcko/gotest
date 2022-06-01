@@ -1,0 +1,6 @@
+cpu.out
+mem.out
+testmain
+profile/cpu
+profile/cpu.pprof
+profile/cpu.pdf
