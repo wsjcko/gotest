@@ -1,4 +1,4 @@
-1 安装graphviz         sudo apt-get install graphviz
+1 安装graphviz(https://graphviz.org/download/)         sudo apt-get install graphviz
 2 编辑dot文件，例如ex.dot, 产生图片：dot -Tsvg ex.dot -o ex.svg
 
 
